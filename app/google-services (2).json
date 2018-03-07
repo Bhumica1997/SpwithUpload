@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "920126226140",
+    "firebase_url": "https://spwithupload-bbe93.firebaseio.com",
+    "project_id": "spwithupload-bbe93",
+    "storage_bucket": "spwithupload-bbe93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920126226140:android:d03b788ba922a4b7",
+        "android_client_info": {
+          "package_name": "com.example.qwinix.spwithupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920126226140-2vvrca24uqg56sejkttc2ig72029j8tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP64ZuaaUxHUVaK62evROyy6Sj0v1u8jg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
